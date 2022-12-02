@@ -1,0 +1,4 @@
+```
+bind 0.0.0.0
+```
+To use redis via public address.
